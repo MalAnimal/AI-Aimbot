@@ -4,7 +4,7 @@ screenShotWidth = 320
 
 # Use "left" or "right" for the mask side depending on where the interfering object is, useful for 3rd player models or large guns
 useMask = False
-maskSide = "left"
+maskSide = "right"
 maskWidth = 80
 maskHeight = 200
 
